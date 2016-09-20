@@ -1,0 +1,22 @@
+{
+  "name": "simple-basic-express-routes",
+  "version": "1.0.0",
+  "description": "simple app with routes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franzwcom/simple-basic-express-routes.git"
+  },
+  "author": "franzw.com",
+  "license": "yes",
+  "bugs": {
+    "url": "https://github.com/franzwcom/simple-basic-express-routes/issues"
+  },
+  "homepage": "https://github.com/franzwcom/simple-basic-express-routes",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
